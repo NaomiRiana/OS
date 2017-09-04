@@ -1,0 +1,13 @@
+#Task01_report
+In this task, we learn how to use git and github such as:
+1. Making new directories
+2. Making new files
+3. Making new .txt files
+4. Changing current directory
+5. Removing files
+6. Moving files to another directory
+7. Pushing/pulling repository
+8. Cloning repository
+9. Verifying directory location
+10.Recording current directory
+11. Making commit
