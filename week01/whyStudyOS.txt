@@ -1,2 +1,4 @@
 #ostutorial
 
+Why I want to study OS?
+Because operating systems are interesting :)
