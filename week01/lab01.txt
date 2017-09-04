@@ -20,3 +20,5 @@ drwxr-xr-x  2 naomi.riana StafCS 4096 Sep  4 16:40 week09
 drwxr-xr-x  2 naomi.riana StafCS 4096 Sep  4 16:40 week10
 drwxr-xr-x  2 naomi.riana StafCS 4096 Sep  4 16:42 xtra
 /home/fasilkom/mahasiswa/n/naomi.riana/os172/week01
+Today is 
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
