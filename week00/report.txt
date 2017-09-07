@@ -1,1 +1,9 @@
 #Naomi_Riana_Lumban_Gaol
+
+In week00, we learned about the introduction of operating system.
+
+Computer system consists of hardware, operating system, application programs, and users.
+Operating system (OS) is intermediary between user and computer hardware.
+Operating system is interrupt-driven. The interrupts are polling-type and vectored interrupt system-type.
+Storage-device hierarchy (from top to bottom) :
+registers -> cache -> main memory -> solid-state disk -> hard disk -> optical disk -> magnetic tapes
