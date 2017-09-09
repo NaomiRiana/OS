@@ -1,0 +1,14 @@
+w01-170904-16-PS-Task01 : Git learning via badak server and GitHub
+w01-170904-17-PS-Task01 : Git learning via badak server and GitHub
+w01-170904-17-PS-Task01 : Git learning via badak server and GitHub
+w01-170905-16-LR-About : Hak akan Kekayaan Innelektual, From: Lecturer
+w01-170905-16-LR-About : Scripting, From: Lecturer
+w01-170905-16-PS-Basic Scripting with Linux Bash
+w01-170905-17-PS-Basic Scripting with Linux Bash
+w01-170905-17-PS-Basic Scripting with Linux Bash
+w01-170907-16-PS-Basic Scripting with Linux Bash, Doing exercise sheet from lecturer
+w01-170907-16-PS-Basic Scripting with Linux Bash, Doing exercise sheet from lecturer
+w01-170907-17-PS-Basic Scripting with Linux Bash
+w01-170907-17-PS-Basic Scripting with Linux Bash
+w01-170909-10-PS-Fixing bug and completing .txt files for task01 assigment
+w01-170909-12-PS-Fixing bug and completing .txt files for task01 assigment
