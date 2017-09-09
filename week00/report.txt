@@ -1,1 +1,7 @@
 #Naomi_Riana_Lumban_Gaol
+
+In task week00, we learned about the introduction of operating system and using linux bash for the first time.
+
+Linux bash can be accessed using Windows 10 or badak.cs.ui.ac.id.
+We had to install putty to accessed into kawung.cs.ui.ac.id and then login to badak.cs.ui.ac.id.
+We also had to make our github account to create our own repository so we can save or submit our progress.

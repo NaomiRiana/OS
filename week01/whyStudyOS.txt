@@ -1,4 +1,11 @@
 #ostutorial
 
-Why I want to study OS?
-Because operating systems are interesting :)
+Why we need to study OS?
+Because OS is fundamental base of everything (related to computer system).
+ 
+Operating Systems are necessary so the users can access programs via any hardware device.
+Currently computer becomes more simple (for users) but more complex (for developer, because generally they want to make users being
+comfortable).
+With studying OS, we'll be able to understand how OS works, the benefits or the flaws of it,
+with hope that in the future, people can applicate the lesson from OS such as 
+upgrading the recently available OS (Windows/Linux) into better version or even, making the new, better OS.
