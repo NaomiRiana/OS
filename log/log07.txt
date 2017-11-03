@@ -1,0 +1,20 @@
+w07-171031-16-LS-About: Process Thread (Fork), From: Lecturer
+w07-171031-16-LS-About: Process Thread (Fork), From: Lecturer
+w07-171031-17-LS-About: Process Thread (Fork), From: Lecturer
+w07-171031-17-LS-About: Process Thread (Fork), From: Lecturer
+w07-171102-11-DS-Discussing CLion
+w07-171102-16-LS-About: Process Thread (Fork), From: Lecturer
+w07-171102-16-LS-About: Process Thread (Fork), From: Lecturer
+w07-171102-17-LS-About: Process Thread (Fork), From: Lecturer
+w07-171102-17-LS-About: Process Thread (Fork), From: Lecturer
+w07-171103-10-PS-Doing task week06 (fork)
+w07-171103-10-PS-Doing task week06 (fork)
+w07-171103-11-PS-Doing task week06 (fork)
+w07-171103-11-PS-Doing task week06 (fork)
+w07-171103-16-PS-Doing task week06 (fork)
+w07-171103-17-PS-Doing task week06 (fork)
+w07-171103-17-PS-Doing task week06 (fork)
+w07-171103-20-PS-Doing task week06 (fork)
+w07-171103-20-PS-Doing task week06 (fork)
+w07-171103-21-PS-Doing task week06 (fork)
+w07-171104-06-PS-Doing task week06 (fork) (submit to github)
